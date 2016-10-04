@@ -13,6 +13,6 @@ FILES
 
 [DIY Lab/Demo for User Namespace Remapping](2016-10-04_pvn_userns_remap_lab_containercon.md)
 
-[DIY Lab/Demo for seccomp](placeholder.md)
+[DIY Lab/Demo for seccomp](https://github.com/riyazdf/dockercon-workshop/tree/master/seccomp)
 
 [YouTube recording of the presentation](https://youtu.be/placeholder)
