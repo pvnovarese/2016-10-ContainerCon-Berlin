@@ -9,10 +9,10 @@ Licensed [BY-NC-SA Creative Commons](http://creativecommons.org/licenses/by-nc-s
 FILES
 -------------
 
-[Presentation Slide Deck](placeholder.pdf)
+[Presentation Slide Deck](2016-10_Berlin_pvn_UserNamespaces_ContainerCon.pdf)
 
 [DIY Lab/Demo for User Namespace Remapping](2016-10-04_pvn_userns_remap_lab_containercon.md)
 
 [DIY Lab/Demo for seccomp](https://github.com/riyazdf/dockercon-workshop/tree/master/seccomp)
 
-[YouTube recording of the presentation](https://youtu.be/placeholder)
+[PLACEHOLDER: YouTube recording of the presentation](https://youtu.be/placeholder)
